@@ -12,24 +12,19 @@
 <br>
 
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-##  programing Languages
+##  skills
+
+### Programing Languages
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts" />
-<br>
 
-##  Library & Framework
+### Library & Framework
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,next,vue,nuxt,rails" />
-<br>
 
-##  creative
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=illustrator,photoshop" />
-<br>
+### Design & UI/UX
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=illustrator,photoshop,svg,bootstrap" />
 
-##  other
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=svg" />
-<br>
+### Tools
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode, github" />
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
