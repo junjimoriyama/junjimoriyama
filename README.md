@@ -7,8 +7,9 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a frontend engineer.
-- 🌱 I’m currently learning go!
+フロントエンド開発を副業や趣味で行なっています。
+主にwebサイト制作ですが、認証や投稿、検索機能などインタラクティブなアプリ的機能を付与することで使い勝手の良いサイト
+を作ることを心がけています。
 <br>
 
 
