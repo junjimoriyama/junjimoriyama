@@ -14,17 +14,17 @@
 
 ##  skills
 
-### Programing Languages
+### プログラミング言語
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts" />
 
-### Library & Framework
+### フレームワーク / ライブラリ
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,next,vue,nuxt,rails" />
 
-### Design & UI/UX
+### デザイン & UI/UX
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=illustrator,photoshop,svg,bootstrap" />
 
-### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode, github" />
+### 開発ツール
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,github" />
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
