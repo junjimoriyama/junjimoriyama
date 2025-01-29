@@ -8,8 +8,10 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 フロントエンド開発を副業や趣味で行なっています。
-主にwebサイト制作ですが、認証や投稿、検索機能などインタラクティブなアプリ的機能を付与することで使い勝手の良いサイト
-を作ることを心がけています。
+
+主にWebサイト制作を手がけていますが、認証・投稿・検索機能などのインタラクティブな要素を加えることで、使い勝手の良いサイト作りを心がけています。
+
+UIについては、なるべくライブラリに頼らず、イラストやアイコンも自作し、オリジナリティの高いデザインを目指しています。
 <br>
 
 
@@ -26,29 +28,3 @@
 
 ### 開発ツール
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,github" />
-
-
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
-</div>
-
-
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
