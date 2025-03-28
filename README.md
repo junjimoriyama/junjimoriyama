@@ -26,7 +26,7 @@ UIについては、なるべくライブラリに頼らず、イラストやア
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,next,vue,nuxt,rails,redux" />
 
 ### デザイン & UI/UX
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=illustrator,photoshop,svg,bootstrap" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=illustrator,photoshop,svg,tailwind,bootstrap" />
 
 ### 開発ツール
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,github" />
