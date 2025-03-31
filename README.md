@@ -20,7 +20,7 @@ UIについては、なるべくライブラリに頼らず、イラストやア
 ##  skills
 
 ### プログラミング言語
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,ruby" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,ruby,php" />
 
 ### フレームワーク / ライブラリ
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,next,vue,nuxt,rails,redux" />
